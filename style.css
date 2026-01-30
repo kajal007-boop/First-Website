@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(241, 232, 232);
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', 'Times New Roman', Times, serif;
+    background: white;
+}
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+    background: #222;
+    color: white;
+}
+
+button {
+    background-color: grey;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    
+
+}
+.hero {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ background: #f4f4f4;
+ padding: 80px 40px;
+ text-align: center;
+}
+button:hover {
+    background-color: rgb(117, 117, 82);
+}
+.hero h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+.hero p {
+    font-size: 20px;
+    color: #555;
+}
+h1 {
+    font-size: 33px;
+}
+.services {
+    font-size: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card {
+    background: white;
+    padding: 30px;
+    width: 220px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+footer {
+    background: #222;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+}
+.Btn {
+    padding: 12px 25px;
+    background: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
